@@ -1,0 +1,6 @@
+.delete-btn{
+    width: 80px;
+    margin-left: 500px;
+    border-radius: 10px;
+    background:  linear-gradient(to right,#a29bfe, #6c5ce7);
+}
